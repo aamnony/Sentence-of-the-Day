@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Quote_of_the_Day.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MainFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 18pt, style=Italic</Value>
+    </Setting>
+    <Setting Name="SecondaryFont" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Times New Roman, 14.25pt</Value>
+    </Setting>
+    <Setting Name="PinMenu" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MainFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="SecondaryFontColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="FormWidth" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
